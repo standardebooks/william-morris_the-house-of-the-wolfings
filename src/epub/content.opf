@@ -44,7 +44,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2885</dc:source>
 		<dc:source>https://www.google.com/books/edition/A_tale_of_the_house_of_the_Wolfings_and/6XgPAAAAQAAJ</dc:source>
 		<meta property="se:word-count">85165</meta>
-		<meta property="se:reading-ease.flesch">63.5</meta>
+		<meta property="se:reading-ease.flesch">63.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_of_the_Wolfings</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-morris_the-house-of-the-wolfings</meta>
 		<dc:creator id="author">William Morris</dc:creator>
